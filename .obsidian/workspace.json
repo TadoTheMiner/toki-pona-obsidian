@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "3757267ce9591481",
+    "type": "split",
+    "children": [
+      {
+        "id": "eef8e96118712c86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf7755f2d1ec8ee3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Toki pona.canvas",
+                "viewState": {
+                  "x": 814.1163440148089,
+                  "y": 1207.065227948369,
+                  "zoom": -1.66030271455758
+                }
+              }
+            }
+          },
+          {
+            "id": "9efea7606c03d0bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gramatical particles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccad11b7582741f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gramatical particles/O.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2472fcd3a785a549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phonology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bd04dfc8343d00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c67a0c43fb320c9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "93ea4e52820f8c25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb6a31a79110a0d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9aa4223ca9511652",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47c62326169fdac5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edf0569f6184d6c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8513deb3f2964c3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "024ff4faa2110b2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Toki pona.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7869535df4014c7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Toki pona.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d9f1f71bceb136e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "acd4f1588c8e07c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Toki pona.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true
+    }
+  },
+  "active": "cf7755f2d1ec8ee3",
+  "lastOpenFiles": [
+    "Vocabulary.md",
+    "Toki pona.canvas",
+    "Tokiponization of names.md",
+    "Sentence format.md",
+    "Toki pona.md",
+    "Gramatical particles/O.md",
+    "Gramatical particles.md",
+    "Phonology.md",
+    "Syllables.md",
+    "Pronouns.md",
+    "Words.md",
+    "Gramatical particles/E.md",
+    "Gramatical particles/Li.md",
+    "Gramatical particle.md",
+    "Gramatical particles",
+    "V",
+    "Core Principles/Tactics/Double Check.md",
+    "Canvases/Tactics.canvas",
+    "Core Principles/Tactics/Discovered Check.md",
+    "Core Principles/Tactics.md",
+    "Core Principles/Tactics/Discovered Attack.md",
+    "Core Principles/Tactics/Double Attack.md",
+    "Core Principles/Tactics/Desperado.png",
+    "Core Principles/Tactics/Fork.md",
+    "Core Principles/Tactics/Decoy.md",
+    "Core Principles/Tactics/Skewer.md",
+    "Core Principles/Tactics/Deflection.md",
+    "Core Principles/Tempo.md",
+    "Core Principles/Controlling The Center.md",
+    "Canvases/Pieces.canvas",
+    "Core Principles/Making The Most Of Your Pieces/King.md",
+    "Endgame Principles/Two Bishops Checkmate4.png",
+    "Endgame Principles/Two Bishops Checkmate1.png",
+    "Endgame Principles/Two Bishops Checkmate3.png",
+    "Endgame Principles",
+    "Endgame Principles/Two Bishops Checkmate2.png",
+    "Core Principles/Game Stages/Opening",
+    "Canvases",
+    "Core Principles/Game Stages",
+    "Core Principles/Tactics/Decoy.png",
+    "Core Principles/Tactics/Relative Pin.png",
+    "Core Principles/Tactics/Skewer.png",
+    "foo",
+    "Core Principles/Tactics/Absolute Pin.png",
+    "Core Principles/Tactics/Deflection.png",
+    "Core Principles/Structures",
+    "Core Principles/Tactics",
+    "Core Principles/Making The Most Of Your Pieces"
+  ]
+}
