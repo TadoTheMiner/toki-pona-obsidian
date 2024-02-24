@@ -1,17 +1,19 @@
 {
 	"nodes":[
-		{"id":"287fdec68ca31cc7","type":"file","file":"Syllables.md","x":1190,"y":179,"width":1119,"height":601,"color":"4"},
+		{"id":"287fdec68ca31cc7","type":"file","file":"Syllables.md","x":1190,"y":179,"width":1119,"height":661,"color":"4"},
 		{"id":"5964718dd5bfd4e9","type":"file","file":"Gramatical particles/Li.md","x":-1646,"y":-800,"width":671,"height":534,"color":"5"},
-		{"id":"de80f11632382897","type":"file","file":"Vocabulary.md","x":-1001,"y":80,"width":622,"height":1545,"color":"4"},
-		{"id":"4590f62e35a07469","type":"file","file":"Words.md","x":40,"y":1400,"width":914,"height":480,"color":"4"},
-		{"id":"27ca3f678521a84e","x":-1720,"y":-188,"width":645,"height":468,"color":"5","type":"file","file":"Gramatical particles/O.md"},
-		{"id":"edbe414028232b29","type":"file","file":"Toki pona.md","x":-151,"y":-120,"width":800,"height":1240,"color":"1"},
-		{"id":"f2eb4bb5db14cb5b","type":"file","file":"Sentence format.md","x":-1001,"y":1840,"width":1029,"height":723,"color":"4"},
-		{"id":"848588a4ed419b48","type":"file","file":"Tokiponization of names.md","x":1059,"y":1195,"width":1250,"height":1290,"color":"4"},
-		{"id":"fbff4c8040e16d42","type":"file","file":"Gramatical particles.md","x":-607,"y":-936,"width":456,"height":748,"color":"4"},
-		{"id":"85afb865728cb490","type":"file","file":"Pronouns.md","x":769,"y":-1042,"width":580,"height":480,"color":"4"},
 		{"id":"5b8de29965b7f077","type":"file","file":"Gramatical particles/E.md","x":103,"y":-968,"width":546,"height":435,"color":"5"},
-		{"id":"b66aa6fd9673dde6","type":"file","file":"Phonology.md","x":1461,"y":-1200,"width":848,"height":1200,"color":"4"}
+		{"id":"b66aa6fd9673dde6","type":"file","file":"Phonology.md","x":1461,"y":-1200,"width":848,"height":1200,"color":"4"},
+		{"id":"edbe414028232b29","type":"file","file":"Toki pona.md","x":249,"y":-188,"width":800,"height":1240,"color":"1"},
+		{"id":"de80f11632382897","type":"file","file":"Vocabulary.md","x":-1680,"y":-72,"width":1382,"height":2232,"color":"4"},
+		{"id":"fbff4c8040e16d42","type":"file","file":"Gramatical particles.md","x":-526,"y":-1080,"width":456,"height":748,"color":"4"},
+		{"id":"1710a32c9e23b10a","type":"file","file":"Anu.md","x":-276,"y":-1600,"width":758,"height":331,"color":"5"},
+		{"id":"f2eb4bb5db14cb5b","type":"file","file":"Sentence format.md","x":-160,"y":2440,"width":1029,"height":723,"color":"4"},
+		{"id":"2f0b5b5a48fc49f9","type":"file","file":"Seme.md","x":-1520,"y":2840,"width":714,"height":714,"color":"5"},
+		{"id":"85afb865728cb490","type":"file","file":"Pronouns.md","x":-920,"y":2280,"width":580,"height":480,"color":"4"},
+		{"id":"27ca3f678521a84e","type":"file","file":"Gramatical particles/O.md","x":-1520,"y":-1436,"width":645,"height":468,"color":"5"},
+		{"id":"4590f62e35a07469","type":"file","file":"Words.md","x":726,"y":1445,"width":914,"height":640,"color":"4"},
+		{"id":"848588a4ed419b48","type":"file","file":"Tokiponization of names.md","x":2200,"y":1150,"width":1250,"height":1290,"color":"4"}
 	],
 	"edges":[
 		{"id":"c4ad2e0a604ad6a3","fromNode":"edbe414028232b29","fromSide":"left","toNode":"de80f11632382897","toSide":"right"},
@@ -30,7 +32,10 @@
 		{"id":"aed3b285f3249a78","fromNode":"fbff4c8040e16d42","fromSide":"left","toNode":"27ca3f678521a84e","toSide":"right"},
 		{"id":"ac0e08e65380db85","fromNode":"27ca3f678521a84e","fromSide":"right","toNode":"fbff4c8040e16d42","toSide":"left"},
 		{"id":"06ec14c53265be20","fromNode":"287fdec68ca31cc7","fromSide":"top","toNode":"b66aa6fd9673dde6","toSide":"bottom"},
-		{"id":"2c272f80cc21e222","fromNode":"edbe414028232b29","fromSide":"top","toNode":"85afb865728cb490","toSide":"bottom"},
-		{"id":"f05f717b1a9b314e","fromNode":"27ca3f678521a84e","fromSide":"right","toNode":"fbff4c8040e16d42","toSide":"left"}
+		{"id":"f05f717b1a9b314e","fromNode":"27ca3f678521a84e","fromSide":"right","toNode":"fbff4c8040e16d42","toSide":"left"},
+		{"id":"a7745442500b82b3","fromNode":"edbe414028232b29","fromSide":"bottom","toNode":"85afb865728cb490","toSide":"right"},
+		{"id":"b434ef884b294114","fromNode":"85afb865728cb490","fromSide":"bottom","toNode":"2f0b5b5a48fc49f9","toSide":"top"},
+		{"id":"8be7ff4b91ccf823","fromNode":"2f0b5b5a48fc49f9","fromSide":"right","toNode":"f2eb4bb5db14cb5b","toSide":"left"},
+		{"id":"7a99d3451ac45e57","fromNode":"fbff4c8040e16d42","fromSide":"top","toNode":"1710a32c9e23b10a","toSide":"bottom"}
 	]
 }

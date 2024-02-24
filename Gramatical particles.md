@@ -3,3 +3,4 @@ These following gramatical particles are in [[Toki pona|toki pona]]:
 1. [[Li]]
 2. [[E]]
 3. [[O]]
+4. [[Anu]]
