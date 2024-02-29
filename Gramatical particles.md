@@ -4,3 +4,4 @@ These following gramatical particles are in [[Toki pona|toki pona]]:
 2. [[E]]
 3. [[O]]
 4. [[Anu]]
+5. [[En]]

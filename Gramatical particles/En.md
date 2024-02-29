@@ -1,0 +1,2 @@
+- The [[Gramatical particles|gramatical particle]] ***en*** lets one combine several subjects in one [[Sentence format|sentence]]
+-  *mi **en** sina li moku.* – You and I are eating.

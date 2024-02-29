@@ -1,4 +1,5 @@
 - [[Toki pona]] follows the principle *"one character per sound, one sound per character"*
+- Every single letter’s pronunciation is its IPA symbol (“toki pona” is pronounced /toki pona/)
 - Stress is on the first [[Syllables|syllable]] (KU-lu-pu instead of ku-LU-pu)
 - The [[Toki pona|toki pona]] alphabet has only 14 letters
 # Consonants

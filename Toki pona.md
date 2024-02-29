@@ -8,3 +8,4 @@
 - Words like pona or ike mean good/bad **subjectively to the speaker**
 - Since names are like adjectives, you have to put something in front of them (jan before names, ma before countries etc.)
 - **[[Tokiponization of names]]** is often neccessary due to **toki pona** having only 14 [[Phonology|letters]]
+- *toki* can be used as a greeting

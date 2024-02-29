@@ -2,4 +2,4 @@
 - Turns a [[Words|word]] into a verb
 - *jan Tato **li** toki*. - Tado talks.
 - Theres no word for *to be*, use ***li*** instead
-- Is ommited when the subject is *[[Pronouns|mi or sina]]*
+- Is ommited when the subject is **only** *[[Pronouns|mi or sina]]*

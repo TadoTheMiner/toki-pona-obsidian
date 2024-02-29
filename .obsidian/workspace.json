@@ -4,50 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "eef8e96118712c86",
+        "id": "8f3c3d53787f5d97",
         "type": "tabs",
         "children": [
           {
-            "id": "b3b5c330ed9a37bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syllables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9efea7606c03d0bf",
+            "id": "10ca0b8d2308bd53",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Toki pona.canvas",
                 "viewState": {
-                  "x": 1511.648235791684,
-                  "y": 989.7730264722735,
-                  "zoom": -1.5999999999999999
+                  "x": 1123.5922836862503,
+                  "y": 1318.9931558468961,
+                  "zoom": -1.329251437101394
                 }
               }
             }
           },
           {
-            "id": "2472fcd3a785a549",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bd04dfc8343d00a",
+            "id": "dc5ba6a75b93f7b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,7 +34,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syllables.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syllables.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syllables.md"
+                "file": "Vocabulary.md"
               }
             }
           }
@@ -183,23 +160,25 @@
       "templates:Insert template": true
     }
   },
-  "active": "b3b5c330ed9a37bd",
+  "active": "dc5ba6a75b93f7b4",
   "lastOpenFiles": [
-    "Words.md",
-    "Toki pona.canvas",
-    "Anu.md",
-    "Vocabulary.md",
-    "Syllables.md",
-    "Toki pona.md",
-    "Sentence format.md",
-    "Gramatical particles.md",
-    "Seme.md",
-    "Phonology.md",
-    "Gramatical particles/O.md",
-    "Pronouns.md",
-    "Gramatical particles/E.md",
     "Tokiponization of names.md",
+    "Toki pona.canvas",
+    "Gramatical particles/En.md",
+    "Gramatical particles/E.md",
+    "Gramatical particles/Anu.md",
     "Gramatical particles/Li.md",
+    "Gramatical particles.md",
+    "Pronouns.md",
+    "Vocabulary.md",
+    "Toki pona.md",
+    "Syllables.md",
+    "Phonology.md",
+    "Seme.md",
+    "Words.md",
+    "Sentence format.md",
+    "_START HERE.md",
+    "Gramatical particles/O.md",
     "Gramatical particle.md",
     "Gramatical particles",
     "V",
@@ -213,8 +192,6 @@
     "Core Principles/Tactics/Fork.md",
     "Core Principles/Tactics/Decoy.md",
     "Core Principles/Tactics/Skewer.md",
-    "Core Principles/Tactics/Deflection.md",
-    "Core Principles/Tempo.md",
     "Canvases/Pieces.canvas",
     "Endgame Principles/Two Bishops Checkmate4.png",
     "Endgame Principles/Two Bishops Checkmate1.png",

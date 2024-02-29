@@ -1,19 +1,22 @@
 {
 	"nodes":[
-		{"id":"287fdec68ca31cc7","type":"file","file":"Syllables.md","x":1190,"y":179,"width":1119,"height":661,"color":"4"},
-		{"id":"5964718dd5bfd4e9","type":"file","file":"Gramatical particles/Li.md","x":-1646,"y":-800,"width":671,"height":534,"color":"5"},
-		{"id":"5b8de29965b7f077","type":"file","file":"Gramatical particles/E.md","x":103,"y":-968,"width":546,"height":435,"color":"5"},
-		{"id":"b66aa6fd9673dde6","type":"file","file":"Phonology.md","x":1461,"y":-1200,"width":848,"height":1200,"color":"4"},
-		{"id":"edbe414028232b29","type":"file","file":"Toki pona.md","x":249,"y":-188,"width":800,"height":1240,"color":"1"},
-		{"id":"de80f11632382897","type":"file","file":"Vocabulary.md","x":-1680,"y":-72,"width":1382,"height":2232,"color":"4"},
-		{"id":"fbff4c8040e16d42","type":"file","file":"Gramatical particles.md","x":-526,"y":-1080,"width":456,"height":748,"color":"4"},
-		{"id":"1710a32c9e23b10a","type":"file","file":"Anu.md","x":-276,"y":-1600,"width":758,"height":331,"color":"5"},
-		{"id":"f2eb4bb5db14cb5b","type":"file","file":"Sentence format.md","x":-160,"y":2440,"width":1029,"height":723,"color":"4"},
-		{"id":"2f0b5b5a48fc49f9","type":"file","file":"Seme.md","x":-1520,"y":2840,"width":714,"height":714,"color":"5"},
-		{"id":"85afb865728cb490","type":"file","file":"Pronouns.md","x":-920,"y":2280,"width":580,"height":480,"color":"4"},
-		{"id":"27ca3f678521a84e","type":"file","file":"Gramatical particles/O.md","x":-1520,"y":-1436,"width":645,"height":468,"color":"5"},
-		{"id":"4590f62e35a07469","type":"file","file":"Words.md","x":726,"y":1445,"width":914,"height":640,"color":"4"},
-		{"id":"848588a4ed419b48","type":"file","file":"Tokiponization of names.md","x":2200,"y":1150,"width":1250,"height":1290,"color":"4"}
+		{"id":"b66aa6fd9673dde6","type":"file","file":"Phonology.md","x":1461,"y":-1200,"width":1419,"height":1200,"color":"4"},
+		{"id":"848588a4ed419b48","type":"file","file":"Tokiponization of names.md","x":2200,"y":1150,"width":1250,"height":1290,"color":"4"},
+		{"id":"185be3598dac857e","x":-728,"y":-2180,"width":430,"height":529,"color":"5","type":"file","file":"Gramatical particles/En.md"},
+		{"id":"27ca3f678521a84e","type":"file","file":"Gramatical particles/O.md","x":-1440,"y":-1885,"width":645,"height":468,"color":"5"},
+		{"id":"5964718dd5bfd4e9","type":"file","file":"Gramatical particles/Li.md","x":-1466,"y":-1235,"width":671,"height":534,"color":"5"},
+		{"id":"4590f62e35a07469","type":"file","file":"Words.md","x":1049,"y":1475,"width":914,"height":725,"color":"4"},
+		{"id":"f2eb4bb5db14cb5b","type":"file","file":"Sentence format.md","x":400,"y":2479,"width":1029,"height":723,"color":"4"},
+		{"id":"2f0b5b5a48fc49f9","type":"file","file":"Seme.md","x":-749,"y":3040,"width":714,"height":714,"color":"5"},
+		{"id":"85afb865728cb490","type":"file","file":"Pronouns.md","x":-325,"y":1795,"width":580,"height":480,"color":"4"},
+		{"id":"de80f11632382897","type":"file","file":"Vocabulary.md","x":-1920,"y":-573,"width":1382,"height":3093,"color":"4"},
+		{"id":"5b8de29965b7f077","type":"file","file":"Gramatical particles/E.md","x":376,"y":-1080,"width":546,"height":435,"color":"5"},
+		{"id":"fbff4c8040e16d42","type":"file","file":"Gramatical particles.md","x":-353,"y":-1019,"width":456,"height":831,"color":"4"},
+		{"id":"1710a32c9e23b10a","type":"file","file":"Gramatical particles/Anu.md","x":-130,"y":-1748,"width":758,"height":331,"color":"5"},
+		{"id":"287fdec68ca31cc7","type":"file","file":"Syllables.md","x":1461,"y":200,"width":1119,"height":701,"color":"4"},
+		{"id":"cde0590b3909d0b7","x":1438,"y":260,"width":250,"height":60,"type":"text","text":"only"},
+		{"id":"b66e070063ec19dc","x":1438,"y":260,"width":250,"height":60,"type":"text","text":"only"},
+		{"id":"edbe414028232b29","type":"file","file":"Toki pona.md","x":280,"y":-160,"width":911,"height":1061,"color":"1"}
 	],
 	"edges":[
 		{"id":"c4ad2e0a604ad6a3","fromNode":"edbe414028232b29","fromSide":"left","toNode":"de80f11632382897","toSide":"right"},
@@ -36,6 +39,9 @@
 		{"id":"a7745442500b82b3","fromNode":"edbe414028232b29","fromSide":"bottom","toNode":"85afb865728cb490","toSide":"right"},
 		{"id":"b434ef884b294114","fromNode":"85afb865728cb490","fromSide":"bottom","toNode":"2f0b5b5a48fc49f9","toSide":"top"},
 		{"id":"8be7ff4b91ccf823","fromNode":"2f0b5b5a48fc49f9","fromSide":"right","toNode":"f2eb4bb5db14cb5b","toSide":"left"},
-		{"id":"7a99d3451ac45e57","fromNode":"fbff4c8040e16d42","fromSide":"top","toNode":"1710a32c9e23b10a","toSide":"bottom"}
+		{"id":"7a99d3451ac45e57","fromNode":"fbff4c8040e16d42","fromSide":"top","toNode":"1710a32c9e23b10a","toSide":"bottom"},
+		{"id":"d1c571d4fea61f9a","fromNode":"fbff4c8040e16d42","fromSide":"top","toNode":"185be3598dac857e","toSide":"bottom"},
+		{"id":"7738de70e63b8356","fromNode":"1710a32c9e23b10a","fromSide":"bottom","toNode":"fbff4c8040e16d42","toSide":"top"},
+		{"id":"aa6bb8fe61578fbc","fromNode":"185be3598dac857e","fromSide":"bottom","toNode":"fbff4c8040e16d42","toSide":"top"}
 	]
 }
