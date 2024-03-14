@@ -47,6 +47,7 @@
 | pipi    | insect                             |                                  |                           |                                       |
 | poka    | hip, side                          |                                  | next to, nearby           |                                       |
 | pona    |                                    |                                  | good, simple              | improve                               |
+| sama    |                                    |                                  | similar equal             | become                                |
 | sinpin  | face, wall                         |                                  | foremost, front           |                                       |
 | sitelen | picture, drawing                   |                                  |                           | draw                                  |
 | sona    | knowledge                          |                                  |                           | know, understand                      |
