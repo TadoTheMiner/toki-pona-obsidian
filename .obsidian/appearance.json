@@ -1,9 +1,9 @@
 {
   "accentColor": "#b4befe",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "Ubuntu",
   "baseFontSize": 30,
   "cssTheme": "Catppuccin",
-  "textFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "Ubuntu",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "nativeMenus": true,
   "theme": "obsidian"
