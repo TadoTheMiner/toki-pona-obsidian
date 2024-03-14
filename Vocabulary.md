@@ -19,6 +19,7 @@
 | ko      |                                    | powder object                    |                           |                                       |
 | kulupu  | group, organization                |                                  | organized                 | organize                              |
 | lape    | relaxation                         |                                  |                           | sleep                                 |
+| len     |                                    |                                  | secret                    |                                       |
 | lete    | ice                                |                                  | cold                      |                                       |
 | lili    |                                    |                                  | small                     |                                       |
 | linja   |                                    | long flexible object (like hair) |                           |                                       |
