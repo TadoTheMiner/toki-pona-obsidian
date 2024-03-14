@@ -13,6 +13,7 @@
 | kala    | fish                               |                                  |                           |                                       |
 | kalama  | sound, noise                       |                                  |                           | read, make sound                      |
 | kasi    | plant, vegetation                  |                                  |                           |                                       |
+| kepeken |                                    |                                  |                           | use, take                             |
 | kili    | fruit, vegetable                   |                                  |                           |                                       |
 | kiwen   | rock                               | hard object                      |                           |                                       |
 | ko      |                                    | powder object                    |                           |                                       |
