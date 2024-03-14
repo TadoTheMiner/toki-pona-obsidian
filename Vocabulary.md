@@ -1,8 +1,9 @@
 
 | Word    | Noun                               | Noun (material)                  | Adjective                 | Verb                                  |
 | ------- | ---------------------------------- | -------------------------------- | ------------------------- | ------------------------------------- |
-| ala     |                                    |                                  | no, none, zero            |                                       |
+| ala     |                                    |                                  | no, none, zero            | disappear                             |
 | ale/ali | universe, everything               |                                  |                           |                                       |
+| anpa    |                                    |                                  | humble, dependent         |                                       |
 | ante    |                                    |                                  | different, changed        | change                                |
 | awen    |                                    |                                  |                           | keep, stay, endure, protect, continue |
 | ijo     | something, stuff                   |                                  |                           |                                       |
