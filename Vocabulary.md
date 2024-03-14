@@ -17,6 +17,7 @@
 | kili    | fruit, vegetable                   |                                  |                           |                                       |
 | kiwen   | rock                               | hard object                      |                           |                                       |
 | ko      |                                    | powder object                    |                           |                                       |
+| kute    |                                    |                                  |                           | listen, hear, obey, eatr              |
 | kulupu  | group, organization                |                                  | organized                 | organize                              |
 | lape    | relaxation                         |                                  |                           | sleep                                 |
 | len     |                                    |                                  | secret                    |                                       |
