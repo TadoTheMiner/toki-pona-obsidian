@@ -52,14 +52,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar/Sentence format.md",
+                "file": "Grammar/Words.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eac7e3134a9a937e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grammar/Gramatical particles/Anu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db543b3b62312322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grammar/Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b9d73c5c2ac596d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grammar/Tokiponization of names.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -125,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grammar/Sentence format.md",
+                "file": "Grammar/Tokiponization of names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grammar/Sentence format.md",
+                "file": "Grammar/Tokiponization of names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grammar/Sentence format.md"
+                "file": "Grammar/Tokiponization of names.md"
               }
             }
           }
@@ -184,25 +220,26 @@
       "templates:Insert template": true
     }
   },
-  "active": "3ea42e91d298b0df",
+  "active": "8b9d73c5c2ac596d",
   "lastOpenFiles": [
-    "Grammar/Gramatical particles/Seme.md",
-    "Toki pona.canvas",
-    "Toki pona.md",
+    "Grammar/Syllables.md",
     "Grammar/Sentence format.md",
+    "Grammar/Questions.md",
+    "Vocabulary/Pronouns.md",
+    "Vocabulary/Prepositions.md",
+    "Phonology.md",
+    "Toki pona.canvas",
     "Grammar/Gramatical particles/Anu.md",
+    "Grammar/Words.md",
+    "Grammar/Gramatical particles/Seme.md",
+    "Toki pona.md",
     "Grammar/Gramatical particles/En.md",
     "Grammar/Gramatical particles/E.md",
     "Vocabulary/Vocabulary.md",
-    "Vocabulary/Pronouns.md",
-    "Vocabulary/Prepositions.md",
     "Grammar/Gramatical particles.md",
     "Grammar",
     "Grammar/Tokiponization of names.md",
-    "Phonology.md",
     "Vocabulary",
-    "Grammar/Words.md",
-    "Grammar/Syllables.md",
     "Grammar/Gramatical particles/Li.md",
     "_START HERE.md",
     "Grammar/Gramatical particles/O.md",
@@ -217,7 +254,6 @@
     "Core Principles/Tactics/Double Attack.md",
     "Core Principles/Tactics/Desperado.png",
     "Core Principles/Tactics/Fork.md",
-    "Core Principles/Tactics/Decoy.md",
     "Canvases/Pieces.canvas",
     "Endgame Principles/Two Bishops Checkmate4.png",
     "Endgame Principles/Two Bishops Checkmate1.png",
