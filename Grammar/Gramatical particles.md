@@ -5,3 +5,4 @@ These following gramatical particles are in [[Toki pona|toki pona]]:
 3. [[O]]
 4. [[Anu]]
 5. [[En]]
+6. [[Seme]]
