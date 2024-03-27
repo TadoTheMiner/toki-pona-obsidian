@@ -15,9 +15,9 @@
               "state": {
                 "file": "Toki pona.canvas",
                 "viewState": {
-                  "x": 220.54948845774118,
-                  "y": 146.61573889990535,
-                  "zoom": -1.829251437101394
+                  "x": 1686.4716796875,
+                  "y": 654.10888671875,
+                  "zoom": -3
                 }
               }
             }
@@ -50,28 +50,12 @@
             "id": "3ea42e91d298b0df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grammar/Gramatical particles/Seme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d781458c58c746b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Toki pona.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Toki pona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Toki pona.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Toki pona.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,26 +176,26 @@
       "templates:Insert template": true
     }
   },
-  "active": "d781458c58c746b8",
+  "active": "3ea42e91d298b0df",
   "lastOpenFiles": [
+    "Grammar/Gramatical particles/Seme.md",
+    "Toki pona.canvas",
+    "Toki pona.md",
+    "Grammar/Sentence format.md",
+    "Grammar/Gramatical particles/Anu.md",
+    "Grammar/Gramatical particles/En.md",
+    "Grammar/Gramatical particles/E.md",
     "Vocabulary/Vocabulary.md",
     "Vocabulary/Pronouns.md",
     "Vocabulary/Prepositions.md",
     "Grammar/Gramatical particles.md",
     "Grammar",
-    "Toki pona.canvas",
     "Grammar/Tokiponization of names.md",
-    "Toki pona.md",
-    "Grammar/Phonology.md",
-    "Grammar/Gramatical particles/Seme.md",
+    "Phonology.md",
     "Vocabulary",
-    "Grammar/Sentence format.md",
     "Grammar/Words.md",
     "Grammar/Syllables.md",
     "Grammar/Gramatical particles/Li.md",
-    "Grammar/Gramatical particles/En.md",
-    "Grammar/Gramatical particles/E.md",
-    "Grammar/Gramatical particles/Anu.md",
     "_START HERE.md",
     "Grammar/Gramatical particles/O.md",
     "Gramatical particle.md",
