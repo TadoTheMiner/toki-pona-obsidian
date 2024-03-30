@@ -1,4 +1,4 @@
-**Questions** in [[Toki pona|toki pona]] have two different possible formats:
+**Questions** in [[toki pona]] have two different possible formats:
 1. Yes/no **questions**: 
 	- The [[Sentence format|sentence format]] is preserved but you replace the [[Words|word]] being **questioned** by `[WORD] ala [WORD]`
 	- *ona li pali ala pali?* – Are they working?

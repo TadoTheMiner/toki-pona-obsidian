@@ -1,8 +1,8 @@
 
-| [[Toki pona\|toki pona]] | English |
-| ---- | ---- |
-| mi | me, us, my, our |
-| sina | you, yours |
-| ona | they, he. she |
-| ni | that, this |
-| [[Seme\|seme]] | what, which |
+| [[Toki pona\|toki pona]] | English         |
+| ------------------------ | --------------- |
+| mi                       | me, us, my, our |
+| sina                     | you, yours      |
+| ona                      | they, he. she   |
+| ni                       | that, this      |
+| [[Seme\|seme]]           | what, which     |

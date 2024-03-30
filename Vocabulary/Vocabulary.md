@@ -10,6 +10,7 @@ The following table shows **vocabulary** of regular words. For **vocabulary** of
 | ijo                       | something, stuff                   |                                  |                           |                                       |
 | ilo                       | tool, machine                      |                                  |                           |                                       |
 | ike                       |                                    |                                  | bad, unnecessary, complex | worsen                                |
+| insa                      | contents, center, stomach          |                                  |                           |                                       |
 | jan                       | human, humanity                    |                                  |                           |                                       |
 | jo                        |                                    |                                  |                           | have, possess                         |
 | kala                      | fish                               |                                  |                           |                                       |
@@ -39,7 +40,7 @@ The following table shows **vocabulary** of regular words. For **vocabulary** of
 | nasa                      |                                    |                                  | wierd, strange            |                                       |
 | nasin                     | way, ideology, method,religion     |                                  |                           |                                       |
 | nimi                      | word, name                         |                                  |                           |                                       |
-| noka                      | foot, leg                          |                                  | bottom, under             |                                       |
+| noka                      | foot, leg                          |                                  |                           |                                       |
 | olin                      | love, romance                      |                                  |                           | love                                  |
 | pakala                    | mistake, (generic curse)           |                                  |                           | break                                 |
 | pali                      |                                    |                                  |                           | do, make, create                      |
@@ -48,7 +49,7 @@ The following table shows **vocabulary** of regular words. For **vocabulary** of
 | pana                      |                                    |                                  |                           | give, emit                            |
 | pilin                     | sensation                          |                                  |                           | feel                                  |
 | pipi                      | insect                             |                                  |                           |                                       |
-| poka                      | hip, side                          |                                  | next to, nearby           |                                       |
+| poka                      | hip, side                          |                                  |                           |                                       |
 | pona                      |                                    |                                  | good, simple              | improve                               |
 | sama                      |                                    |                                  | similar equal             | become                                |
 | sinpin                    | face, wall                         |                                  | foremost, front           |                                       |
