@@ -8,3 +8,4 @@
 2. Freeform **questions**
 	-  The [[Sentence format|sentence format]] is again preserved but you replace the [[Words|word]] being **questioned** by [[Seme|seme]]
 	- *jan seme li pakala e ona?* – Who broke it?
+#grammar

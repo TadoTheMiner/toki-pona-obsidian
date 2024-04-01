@@ -11,3 +11,4 @@
 	2. Insert [[Phonology#Vowels|vowels]] (it's up to you what [[Phonology#Vowels|vowels]] you use) - *Palanse* 
 - Names of languages and countries are in from the countries language - German is *toki Tosi* (from Deutsch) 
 - If the name of the countries language is derived from the countries name, the countries  - Germany is *ma Tosi* not *Tosilan*
+#grammar

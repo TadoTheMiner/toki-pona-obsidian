@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10ca0b8d2308bd53",
+            "id": "15b8177d2279c0ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar/Gramatical particles/La.md",
+                "file": "Vocabulary/Numbers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "15b8177d2279c0ac",
+            "id": "88247c812c983371",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,14 +35,11 @@
             "id": "fba4407410149e34",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Toki pona.canvas",
-                "viewState": {
-                  "x": -1140,
-                  "y": 850,
-                  "zoom": -1.1126288551109056
-                }
+                "file": "Toki pona.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -64,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar/Gramatical particles.md",
+                "file": "Grammar/Grammatical particles.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,12 +71,35 @@
             "id": "9342767ef9724291",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Toki pona.canvas",
+                "viewState": {
+                  "x": -25.589635296593656,
+                  "y": 1382.3933258799166,
+                  "zoom": -3
+                }
+              }
+            }
+          },
+          {
+            "id": "5df8724cf5f3000a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar/Gramatical particles/Anu.md",
+                "file": "Vocabulary/Prepositions.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "b55f80a2d059021c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -133,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "edf0569f6184d6c4",
@@ -149,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grammar/Gramatical particles/Anu.md",
+                "file": "Toki pona.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grammar/Gramatical particles/Anu.md",
+                "file": "Toki pona.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grammar/Gramatical particles/Anu.md"
+                "file": "Toki pona.canvas"
               }
             }
           }
@@ -210,27 +231,28 @@
   },
   "active": "9342767ef9724291",
   "lastOpenFiles": [
-    "Grammar/Gramatical particles.md",
-    "Grammar/Gramatical particles/Seme.md",
-    "Grammar/Gramatical particles/Pi.md",
-    "Grammar/Gramatical particles/O.md",
-    "Grammar/Gramatical particles/Li.md",
-    "Grammar/Gramatical particles/La.md",
-    "Grammar/Gramatical particles/En.md",
-    "Grammar/Gramatical particles/E.md",
-    "Grammar/Gramatical particles/Anu.md",
-    "Grammar/Multiple objects and verbs in sentences.md",
-    "Toki pona.canvas",
-    "Vocabulary/Prepositions.md",
-    "Grammar/Questions.md",
     "Grammar/Sentence format.md",
-    "Grammar/Topics of conversation.md",
-    "Grammar/Tokiponization of names.md",
-    "Grammar/Words.md",
-    "Vocabulary/Pronouns.md",
-    "Toki pona.md",
+    "Vocabulary/Prepositions.md",
     "Vocabulary/Vocabulary.md",
+    "Vocabulary/Pronouns.md",
+    "Vocabulary/Numbers.md",
+    "Toki pona.canvas",
+    "Grammar/Grammatical particles.md",
+    "Grammar/Gramatical particles/La.md",
+    "Toki pona.md",
     "Grammar/Syllables.md",
+    "Grammar/Gramatical particles/Anu.md",
+    "Grammar/Gramatical particles/E.md",
+    "Grammar/Gramatical particles/En.md",
+    "Grammar/Gramatical particles/Li.md",
+    "Grammar/Gramatical particles/O.md",
+    "Grammar/Gramatical particles/Pi.md",
+    "Grammar/Topics of conversation.md",
+    "Grammar/Gramatical particles/Seme.md",
+    "Grammar/Tokiponization of names.md",
+    "Grammar/Multiple objects and verbs in sentences.md",
+    "Grammar/Questions.md",
+    "Grammar/Words.md",
     "Phonology.md",
     "Grammar",
     "Vocabulary",
@@ -240,8 +262,6 @@
     "V",
     "Core Principles/Tactics/Double Check.md",
     "Canvases/Tactics.canvas",
-    "Core Principles/Tactics/Discovered Check.md",
-    "Core Principles/Tactics.md",
     "Core Principles/Tactics/Desperado.png",
     "Canvases/Pieces.canvas",
     "Endgame Principles/Two Bishops Checkmate4.png",

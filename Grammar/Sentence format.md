@@ -2,3 +2,4 @@
 - The **format** of a toki pona **command sentence** is:`([SUBJECT]) o [VERB] (e [OBJECT])` (subject is optional, ~~*[[O|o]]* is not ommited after *[[Pronouns|mi or sina]]*~~)
 - `[SUBJECT] o` means the speaker is calling the subject.
 - Adjectives come **after** nouns or verbs
+#grammar
