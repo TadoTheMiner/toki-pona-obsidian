@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "spellcheck": false,
-  "tabSize": 4
+  "tabSize": 4,
+  "mobilePullAction": "obsidian-better-command-palette:open-better-commmand-palette"
 }
